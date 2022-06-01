@@ -1,0 +1,4 @@
+for database connection -
+db.php
+
+and upload sql file
